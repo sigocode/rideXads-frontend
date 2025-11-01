@@ -31,7 +31,7 @@ export default function Footer() {
             <h4 className="font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>support@ridexads.com</li>
-              <li>+91 1234567890</li>
+              <li>+91 7038662954</li>
             </ul>
           </div>
         </div>
